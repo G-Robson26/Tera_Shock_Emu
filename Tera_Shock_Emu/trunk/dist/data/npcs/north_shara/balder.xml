@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<template id="8005" name="Auricadis" class="MONSTER" type="425" level="60" exp="1" attack="807" defense="3296" impact="10" balance="50" maxHp="18382618" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+</list>

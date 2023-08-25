@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<npc id="1000" type="475" continentId="2">
+		 <ai class="DEFAULT" config="DefaultMonster" >
+			<time respawn="45" >
+				<point x="73677" y="143037" z="-11056" heading="36018" />
+			</time>
+		</ai>
+	</npc>
+	<npc id="2000" type="475" continentId="2">
+		 <ai class="DEFAULT" config="DefaultMonster" >
+			<time respawn="45" >
+				<point x="64551" y="144720" z="-10306" heading="964" />
+			</time>
+		</ai>
+	</npc>
+	<npc id="2001" type="475" continentId="2">
+		 <ai class="DEFAULT" config="DefaultMonster" >
+			<time respawn="45" >
+				<point x="65378" y="143884" z="-10306" heading="17344" />
+			</time>
+		</ai>
+	</npc>
+	<npc id="2002" type="475" continentId="2">
+		 <ai class="DEFAULT" config="DefaultMonster" >
+			<time respawn="45" >
+				<point x="66399" y="144351" z="-10306" heading="28774" />
+			</time>
+		</ai>
+	</npc>
+	<npc id="2003" type="475" continentId="2">
+		 <ai class="DEFAULT" config="DefaultMonster" >
+			<time respawn="45" >
+				<point x="66272" y="145473" z="-10306" heading="43444" />
+			</time>
+		</ai>
+	</npc>
+	<npc id="2004" type="475" continentId="2">
+		 <ai class="DEFAULT" config="DefaultMonster" >
+			<time respawn="45" >
+				<point x="65126" y="145745" z="-10306" heading="53688" />
+			</time>
+		</ai>
+	</npc>
+	<npc id="5001" type="475" continentId="2">
+		 <ai class="DEFAULT" config="DefaultFriendly" >
+			<time respawn="45" >
+				<point x="62561" y="149448" z="-9475" heading="52354" />
+			</time>
+		</ai>
+	</npc>
+	<npc id="5001" type="475" continentId="2">
+		 <ai class="DEFAULT" config="DefaultFriendly" >
+			<time respawn="45" >
+				<point x="74877" y="143051" z="-11064" heading="34752" />
+			</time>
+		</ai>
+	</npc>
+	<npc id="5005" type="475" continentId="2">
+		 <ai class="DEFAULT" config="DefaultFriendly" >
+			<time respawn="45" >
+				<point x="69293" y="144329" z="-10327" heading="4848" />
+			</time>
+		</ai>
+	</npc>
+</list>

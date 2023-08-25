@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<template id="1000" name="Kelsaik" class="MONSTER" type="475" level="60" exp="1" attack="807" defense="3296" impact="10" balance="50" maxHp="20" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+	<template id="2000" name="Annihilation Charger" class="MONSTER" type="475" level="58" exp="1" attack="215" defense="2950" impact="10" balance="50" maxHp="1312057" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+	<template id="2001" name="Annihilation Reaper" class="MONSTER" type="475" level="58" exp="1" attack="215" defense="2950" impact="10" balance="50" maxHp="1312057" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+	<template id="2002" name="Annihilation Sniper" class="MONSTER" type="475" level="58" exp="1" attack="215" defense="2950" impact="10" balance="50" maxHp="1312057" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+	<template id="2003" name="Annihilation Destroyer" class="MONSTER" type="475" level="58" exp="1" attack="215" defense="2950" impact="10" balance="50" maxHp="1312057" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+	<template id="2004" name="Annihilation Vanquisher" class="MONSTER" type="475" level="58" exp="1" attack="215" defense="2950" impact="10" balance="50" maxHp="1312057" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+	<template id="5001" name="Exit Teleportal" class="FRIENDLY" type="475" level="58" exp="1" attack="215" defense="2950" impact="10" balance="50" maxHp="1312057" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+	<template id="5002" name="Exit Teleportal" class="FRIENDLY" type="475" level="58" exp="1" attack="215" defense="2950" impact="10" balance="50" maxHp="1312057" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+	<template id="5005" name="Trietalith" class="MONSTER" type="475" level="58" exp="1" attack="215" defense="2950" impact="10" balance="50" maxHp="1312057" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+</list>

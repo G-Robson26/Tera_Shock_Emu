@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+	<!-- Kelsaik's Nest -->
+	<npc id="1502" type="251" >
+		<link name="Kelsaik's Nest" icon="GREEN" >
+			<reply name="ReplyCityTeleport" x="62617" y="149195" z="-9474" heading="52918" id="2" />
+		</link>
+		<link name="Return to nearby town" icon="GREEN">
+			<reply name="ReplyCityTeleport" x="-5071.3755" y="62254.766" z="6020.389" heading="51016" id="2" /><!-- habere -->
+		</link>
+	</npc>
+
+	<!-- exit teleportal -->
+
+	<!-- Kelsaik's Nest -->
+	<npc id="5001" type="475" >
+		<link name="Kelsaik's Nest entrance" icon="GREEN" >
+			<reply name="ReplyCityTeleport" x="8810" y="33920" z="9228" heading="27416" id="2" />
+		</link>
+	</npc>
+	<npc id="5002" type="475" >
+		<link name="Kelsaik's Nest entrance" icon="GREEN" >
+			<reply name="ReplyCityTeleport" x="8810" y="33920" z="9228" heading="27416" id="2" />
+		</link>
+	</npc>
+</list>

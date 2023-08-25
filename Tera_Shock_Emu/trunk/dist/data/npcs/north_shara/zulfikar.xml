@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<template id="1006" name="Shako" class="FRIENDLY" type="78" level="1" exp="1" attack="100" defense="40" impact="10" balance="50" maxHp="600" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+	<template id="1007" name="Teleportal" class="FRIENDLY" type="78" level="1" exp="1" attack="100" defense="40" impact="10" balance="50" maxHp="600" maxMp="300" atkSpd="120" runSpd="80" skills="" />
+</list>

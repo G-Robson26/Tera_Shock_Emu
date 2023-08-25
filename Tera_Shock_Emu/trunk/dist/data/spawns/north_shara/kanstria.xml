@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<npc id="1006" type="76" continentId="2">
+		 <ai class="DEFAULT" config="DefaultFriendly" >
+			<time respawn="45" >
+				<point x="43741" y="20134" z="2860" heading="55342" />
+			</time>
+		</ai>
+	</npc>
+	<npc id="1007" type="76" continentId="2">
+		 <ai class="DEFAULT" config="DefaultFriendly" >
+			<time respawn="45" >
+				<point x="47140" y="19298" z="2329" heading="50194" />
+			</time>
+		</ai>
+	</npc>
+</list>
