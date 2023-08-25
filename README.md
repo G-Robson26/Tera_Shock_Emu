@@ -1,6 +1,6 @@
 # Tera_Shock_Emu
-
 Credit also goes to P5yl0, Luciole and so many others.
+
 
 
 Original thread from [RaGEZONE](https://forum.ragezone.com/threads/tera-shock-emu.1158469/)
